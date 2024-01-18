@@ -23,10 +23,5 @@ This project serves as a reminder to prioritize the development of soft skills, 
 
 Feel free to explore and adapt the insights shared in this project to enhance your own personal and professional growth.
 
-## License
-This project is licensed under the [Your License Name] - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-- Mention any acknowledgments or references here.
 
 
